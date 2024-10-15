@@ -6,13 +6,6 @@ I'm a Web Developer and Logo Designer
 
 I've been learning to code for 3 years, for Frontend, I use Html, CSS, ReactJS, TypeScript & for Backend JavaScript, NodeJS & Bootstrap as Framework.
 
-* 🌍  I'm based in West Bengal, India
-* 🖥️  See my portfolio at [ez.vivek](http://ezvivek.vercel.app)
-* ✉️  You can contact me at [vivektalent200@gmail.com](mailto:vivektalent200@gmail.com)
-* 🚀  I'm currently working on [A NextJS Portfolio](http://ezvivek.vercel.app)
-* 🧠  I'm learning a new Framework - Vite
-* 🤝  I'm open to collaborating on AI Models & Generative AI
-
 ### Skills
 
 
