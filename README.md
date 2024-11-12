@@ -20,6 +20,36 @@ I've been learning to code for 3 years, for Frontend, I use Html, CSS, ReactJS, 
 
 ### Badges
 
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/ue1fWW4qTS6Lp9nlm8DjGw",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "Tuo3dHVBd0W8YHte",
+    "hashed": true,
+    "identity": "sha256$b2699b19bbfee9e987ee33548c0d9ced098255aa679a348c2dcdcfe9a2cfcdfc"
+  },
+  "badge": "https://api.badgr.io/public/badges/fHhZJHaDSc6dWuIXv2bIJA",
+  "issuedOn": "2024-10-15T02:30:00Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/ue1fWW4qTS6Lp9nlm8DjGw/image"
+  },
+  "narrative": "### Contributed to Elixpo_AI_Chapter under the event of Hacktoberfest \n- Updated the Readme documentation of the repository.\n- Contributed towards the responsiveness and mobile UI front-end",
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "name": "Vivek Yadav",
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ]
+  }
+}
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ez-vivek"><img src="https://github-readme-stats.vercel.app/api?username=ez-vivek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ez-vivek's GitHub stats" /></a>
