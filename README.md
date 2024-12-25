@@ -1,21 +1,15 @@
 
 Hi, I'm Vivek, a Frontend Developer with over 3 years of experience. I specialize in Frontend tools like HTML, CSS, ReactJS, and TypeScript, and I also have Backend experience using JavaScript, NodeJS, and for more details visit my Resume"
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <style>
-  .icon-container {
-    display: flex; /* Use flexbox for alignment */
-    justify-content: center; /* Center-align the icons */
-    flex-wrap: wrap; /* Allow wrapping to the next line if needed */
-    gap: 10px; /* Add gap between icons */
+    gap: 2px; /* Add gap between icons */
   }
 
   .icon-container a img {
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
   }
 </style>
 
