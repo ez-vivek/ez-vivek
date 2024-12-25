@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/user-attachments/assets/d9bcf7c9-77f1-41ee-af38-1190bbd6510c)
 
 Hi, I'm Vivek, a Frontend Developer with over 3 years of experience. I specialize in Frontend tools like HTML, CSS, ReactJS, and TypeScript, and I also have Backend experience using JavaScript, NodeJS, and for more details visit my Resume"
 
