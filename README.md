@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/user-attachments/assets/6d25314f-ac3c-4be3-8483-43a2e85fab47)
 
-<p align="center">Hi, I'm Vivek, a Frontend Developer with over 3 years of experience. I specialize in Frontend tools like HTML, CSS, ReactJS, and TypeScript, and I also have Backend experience using JavaScript, NodeJS, and for more details visit my <a href="https://read.cv/ez.vivek">Resume</a></p>
+<p align="center">Hi, I'm Vivek, a Frontend Developer with over 3 years of experience. I specialize in Frontend tools like HTML, CSS, ReactJS, and TypeScript, and I also have Backend experience using JavaScript, NodeJS, and for more details visit my <a href="https://read.cv/ez.vivek"><b>Resume</b></a></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
