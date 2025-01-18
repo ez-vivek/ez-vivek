@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/user-attachments/assets/6d25314f-ac3c-4be3-8483-43a2e85fab47)
 
-<p align="center">Hi, I'm Vivek, a Full-Stack Web Dev | Next.js, Vite & TypeScript | Spline 3D | Open to Collaboration -- Reach out to me <a href="mail to : vivektalent200@gmail.com"><b>Gmail</b></a></p> | Let’s build something amazing! and for more details visit my <a href="https://read.cv/ez.vivek"><b>Resume</b></a></p>
+<p align="center">Hi, I'm Vivek, a Full-Stack Web Dev | Next.js, Vite & TypeScript | Spline 3D | Open to Collaboration -- Reach out to me <a href="mail to : vivektalent200@gmail.com"><b>Gmail</b></a> | Let’s build something amazing! and for more details visit my <a href="https://read.cv/ez.vivek"><b>Resume</b></a></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
