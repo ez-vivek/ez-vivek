@@ -8,4 +8,3 @@
 
 [![An image of @ezvivek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezvivek)](https://holopin.io/@ezvivek)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
