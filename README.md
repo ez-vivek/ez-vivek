@@ -1,4 +1,6 @@
-![Github Banner](https://github.com/user-attachments/assets/6d25314f-ac3c-4be3-8483-43a2e85fab47)
+<img width="4096" height="1364" alt="Twitter Banner" src="https://github.com/user-attachments/assets/bb87a3b0-7fee-4996-917d-a871bc2d27e5" />
+
+
 
 <p align="center">Hi, I'm Vivek, My goal is to combine technical skills with strategic thinking to create impactful projects. I'm always looking to connect with fellow developers, creators, and innovators. Let's discuss our common interests and build something great together. ​And hey, if your Website Sucks giving you trouble, I'm here to help you debug them. Let's connect and solve it! <a href="https://www.linkedin.com/in/ezmkdir"><b>LinkedIn</b></a></p>
 
